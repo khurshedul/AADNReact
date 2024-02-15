@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fHzEO+bJoGAqCOSgaX8GRm8BXqsEKiFaJc76Jv1CJaA=",
+  "Source": "MstoreBackend",
+  "BasePath": "_content/MstoreBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
